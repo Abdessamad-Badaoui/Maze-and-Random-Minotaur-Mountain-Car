@@ -4,7 +4,7 @@
 
 This project explores the fundamentals of Reinforcement Learning (RL) through two classic environments: mazes and the Mountain Car problem. It delves into core RL concepts and implements various algorithms to train agents to navigate these environments effectively.
 
-##Covered Topics
+## Covered Topics 
 
 **Markov Decision Processes (MDPs):** Understanding the framework for modeling sequential decision-making problems in RL.
 
